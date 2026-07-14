@@ -904,7 +904,7 @@ MonoBehaviour:
     m_Bits: 8
   prefabPoder: {fileID: 7806324358124798564, guid: f183ad2933069ff4cae30d8fcdada0c6, type: 3}
   puntoLanzamiento: {fileID: 2012552648}
-  fuerzaLanzamientoPoder: 5
+  fuerzaLanzamientoPoder: 7
   tiempoEsperaPoder: 0.3
   tiempoVidaPoder: 3
   retrasoLanzamientoPoder: 0.5
